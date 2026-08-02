@@ -15,6 +15,7 @@ Beyond my professional work, I create educational content on **YouTube**, where 
 ## 🌐 Connect with Me
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/joyrana/
+* 🌐 **Website:** https://joyrana.in
 * 🎥 **YouTube:** https://www.youtube.com/@MrJoyRana
 * 📂 **GitHub:** https://github.com/joyrana
 
@@ -24,10 +25,10 @@ If you're interested in:
 
 * 🤖 AI Engineering
 * 🧠 Agentic AI
-* 📈 Financial Technology
-* ☕ Java & Spring Boot
+* 📈 Ultra Low Latency Systems
+* 🏛️ Solution Architecture
 * 🏗 Distributed Systems
-* 📚 DSA & Interview Preparation
+* 📚 Data Structures and Algorithms
 
 feel free to connect with me on LinkedIn or subscribe to my YouTube channel.
 
