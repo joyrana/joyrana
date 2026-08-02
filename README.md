@@ -16,6 +16,7 @@ Beyond my professional work, I create educational content on **YouTube**, where 
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/joyrana/
 * 🌐 **Website:** https://joyrana.in
+* ✍️ **Medium:** https://joyrana-dev.medium.com/
 * 🎥 **YouTube:** https://www.youtube.com/@MrJoyRana
 * 📂 **GitHub:** https://github.com/joyrana
 
