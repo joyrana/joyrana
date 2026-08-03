@@ -1,6 +1,6 @@
 # Hi there, I'm Joy Rana 👋
 
-🚀 **Vice President | Staff Software Engineer | AI Engineer | Educator | Open Source Enthusiast**
+🚀 **Vice President @Citi | Staff Software Engineer | AI Engineer | Educator | Open Source Enthusiast**
 
 I am a **Vice President at Citi** with **14+ years of experience** building large-scale enterprise applications in the financial industry. My passion lies in **Artificial Intelligence, Agentic AI, Large Language Models (LLMs), Distributed Systems, and Software Engineering**.
 
