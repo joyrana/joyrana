@@ -1,36 +1,15 @@
-# Hi there, I'm Joy Rana 👋
+<!-- Styled with the Microsoft Fluent 2 design language. Edit content in scripts/build_assets.py, then run: python3 scripts/build_assets.py -->
 
-🚀 **Vice President @Citi | Staff Software Engineer | AI Engineer | Educator | Open Source Enthusiast**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg"><img src="./assets/intro-light.svg" width="100%" alt="Hi there, I'm Joy Rana. Vice President @Citi | Staff Software Engineer | AI Engineer | Educator | Open Source Enthusiast. I am a Vice President at Citi with 14+ years of experience building large-scale enterprise applications in the financial industry. My passion lies in Artificial Intelligence, Agentic AI, Large Language Models (LLMs), Distributed Systems, and Software Engineering. Beyond my professional work, I create educational content on YouTube, where I simplify complex software engineering and AI concepts through practical, project-based tutorials. Staff Software Engineer (Vice President) @ Citi; Exploring Agentic AI, LLMs, MCP, LangGraph, RAG &amp; AI Systems; Java, Spring Boot, Python, React, FastAPI, Distributed Systems; Building production-ready AI applications from scratch; Passionate about teaching Data Structures &amp; Algorithms and AI Engineering."></picture>
 
-I am a **Vice President at Citi** with **14+ years of experience** building large-scale enterprise applications in the financial industry. My passion lies in **Artificial Intelligence, Agentic AI, Large Language Models (LLMs), Distributed Systems, and Software Engineering**.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/connect-heading-dark.svg"><img src="./assets/connect-heading-light.svg" width="100%" alt="Connect with Me"></picture>
 
-Beyond my professional work, I create educational content on **YouTube**, where I simplify complex software engineering and AI concepts through practical, project-based tutorials.
+<a href="https://www.linkedin.com/in/joyrana/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg"><img src="./assets/link-linkedin-light.svg" width="100%" alt="LinkedIn: https://www.linkedin.com/in/joyrana/"></picture></a>
+<a href="https://joyrana.in"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-website-dark.svg"><img src="./assets/link-website-light.svg" width="100%" alt="Website: https://joyrana.in"></picture></a>
+<a href="https://joyrana-dev.medium.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-medium-dark.svg"><img src="./assets/link-medium-light.svg" width="100%" alt="Medium: https://joyrana-dev.medium.com/"></picture></a>
+<a href="https://www.youtube.com/@MrJoyRana"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-youtube-dark.svg"><img src="./assets/link-youtube-light.svg" width="100%" alt="YouTube: https://www.youtube.com/@MrJoyRana"></picture></a>
+<a href="https://github.com/joyrana"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-github-dark.svg"><img src="./assets/link-github-light.svg" width="100%" alt="GitHub: https://github.com/joyrana"></picture></a>
 
-* 💼 Staff Software Engineer (Vice President) @ Citi
-* 🤖 Exploring Agentic AI, LLMs, MCP, LangGraph, RAG & AI Systems
-* ☕ Java • Spring Boot • Python • React • FastAPI • Distributed Systems
-* 🎯 Building production-ready AI applications from scratch
-* 📚 Passionate about teaching Data Structures & Algorithms and AI Engineering
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/lets-connect-dark.svg"><img src="./assets/lets-connect-light.svg" width="100%" alt="Let's Connect. If you're interested in: AI Engineering, Agentic AI, Ultra Low Latency Systems, Solution Architecture, Distributed Systems, Data Structures and Algorithms — feel free to connect with me on LinkedIn or subscribe to my YouTube channel."></picture>
 
-## 🌐 Connect with Me
-
-* 💼 **LinkedIn:** https://www.linkedin.com/in/joyrana/
-* 🌐 **Website:** https://joyrana.in
-* ✍️ **Medium:** https://joyrana-dev.medium.com/
-* 🎥 **YouTube:** https://www.youtube.com/@MrJoyRana
-* 📂 **GitHub:** https://github.com/joyrana
-
-# 🤝 Let's Connect
-
-If you're interested in:
-
-* 🤖 AI Engineering
-* 🧠 Agentic AI
-* 📈 Ultra Low Latency Systems
-* 🏛️ Solution Architecture
-* 🏗 Distributed Systems
-* 📚 Data Structures and Algorithms
-
-feel free to connect with me on LinkedIn or subscribe to my YouTube channel.
-
-⭐ If you find my projects helpful, consider giving them a star!
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/star-dark.svg"><img src="./assets/star-light.svg" width="100%" alt="If you find my projects helpful, consider giving them a star!"></picture>
